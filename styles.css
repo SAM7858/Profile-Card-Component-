@@ -108,6 +108,7 @@ body {
     text-align: center;
     border-radius: 1rem;
     overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 figure {
